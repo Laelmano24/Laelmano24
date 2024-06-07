@@ -14,4 +14,4 @@
 
 <br>
 
-#Contudo tenho experiência com edição de vídeo e imagem, porém não venha pesando que sou o loko do Photoshop ou editor de vídeo longo, apenas realizo edições de 11 a 20 e faço foto com efeitos básico.
+#Contudo tenho experiência com edição de vídeo e imagem, porém não venha pesando que sou o loko do Photoshop ou editor de vídeo longo, apenas realizo edições de 11 a 20 segundos e faço foto com efeitos básico.
