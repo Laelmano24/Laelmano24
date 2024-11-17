@@ -1,6 +1,6 @@
 ## Olá, eu sou o Israel 👋
 
-#Olá! Sou uma pessoa no meio de milhares de programadores procurando torna se uma pessoa excelente na minha área. Ainda estou na fase de estudos, espero terminar a minha escola já sabendo o necessário pra entrar em uma varga de programador.
+# Olá! Sou uma pessoa no meio de milhares de programadores procurando torna se uma pessoa excelente na minha área. Ainda estou na fase de estudos, espero terminar a minha escola já sabendo o necessário pra entrar em uma varga de programador.
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/israel_eduardo2.0?igsh=MXYxZ2x0djhhbm8wdQ==)
 
