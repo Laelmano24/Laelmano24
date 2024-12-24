@@ -1,15 +1,21 @@
-# Olá, eu sou o Israel 👋
+<h1 align="center">Olá 👋, sou o Rael</h1>
+<h3 align="center">Sou apenas uma pessoa entre milhares de programadores tentando ser bom no que faço.</h3>
 
-**Olá! Sou uma pessoa no meio de milhares de programadores procurando torna se uma pessoa excelente na minha área. Ainda estou na fase de estudos, espero terminar a minha escola já sabendo o necessário pra entrar em uma varga de programador.**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=laelmano24&label=Profile%20views&color=0e75b6&style=flat" alt="laelmano24" /> </p> <
 
-## As tecnologia que estou estudando🤓
+p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=laelmano24" alt="laelmano24" /></a> </p>
 
-<div><br>
-    <img aling="center" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-    <img aling="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img aling="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-</div>
+<h3 align="left">Conecte-se comigo:</h3>
+<p align="left">
+<a href="https://instagram.com/israel_eduardo2.0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="israel_eduardo2.0" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/laelmano24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="laelmano24" height="30" width="40" /></a>
+</p>
 
-<br>
+<h3 align="left">Idiomas e Ferramentas:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
-**Contudo tenho experiência com edição de vídeo e imagem, porém não venha pesando que sou o loko do Photoshop ou editor de vídeo longo, apenas realizo edições de 11 a 20 segundos e faço foto com efeitos básico.**
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=laelmano24&show_icons=true&locale=en&layout=compact" alt="laelmano24" /></p>
+
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=laelmano24&show_icons=true&locale=en" alt="laelmano24" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=laelmano24&" alt="laelmano24" /></p>
