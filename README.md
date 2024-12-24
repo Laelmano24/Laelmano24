@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://rael-hub-site.vercel.app/" target="blank"><img align="center" src="https://i.postimg.cc/J03rfLjs/4-Sem-T-tulo-20240804215339.png" alt="raelhub" height="30" width="40" /></a>
+<a href="https://rael-hub-site.vercel.app/" target="blank"><img align="center" src="https://i.postimg.cc/J03rfLjs/4-Sem-T-tulo-20240804215339.png" alt="raelhub" height="30" width="30" /></a>
 <a href="https://youtube.com/@laelmano24?si=4LwnhK9LeGWz635-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="laelmano24" height="30" width="40" /></a>
 <a href="https://instagram.com/israel_eduardo2.0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="israel_eduardo2.0" height="30" width="40" /></a>
 </p>
