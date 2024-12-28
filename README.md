@@ -19,6 +19,8 @@
 <a href="https://www.lua.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/2048px-Lua-Logo.svg.png" alt="lua" width="40" height="40"/> </a>
 </p>
 
+<br></br>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=laelmano24&show_icons=true&locale=en&layout=compact" alt="laelmano24" /></p>
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=laelmano24&show_icons=true&locale=en" alt="laelmano24" /></p>
