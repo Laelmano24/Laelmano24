@@ -1,4 +1,4 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/:1177722124035706931)](https://discord.com/users/:1177722124035706931)
+[![Discord Presence](https://lanyard.cnrad.dev/api/705665813994012695)](https://discord.com/users/705665813994012695)
 <h1 align="center">Hello 👋, I'm Rael</h1>
 <h3 align="center">I'm just one person among thousands of programmers trying to be good at what I do.</h3>
 
