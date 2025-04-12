@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://discord.com/users/1177722124035706931">
+  <a href="https://discord.com/users/654098103980523521">
     <img src="https://lanyard.cnrad.dev/api/1177722124035706931" alt="Discord Presence">
   </a>
 </div>
