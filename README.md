@@ -1,4 +1,8 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/654098103980523521)](https://discord.com/users/654098103980523521)
+<div align="center">
+  <a href="https://discord.com/users/654098103980523521">
+    <img src="https://lanyard.cnrad.dev/api/654098103980523521" alt="Discord Presence">
+  </a>
+</div>
 <h1 align="center">Hello 👋, I'm Rael</h1>
 <h3 align="center">I'm just one person among thousands of programmers trying to be good at what I do.</h3>
 
