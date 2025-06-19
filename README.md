@@ -6,52 +6,36 @@
 <h1 align="center">Hello 👋, I'm Rael</h1>
 <h3 align="center">I'm just one person among thousands of programmers trying to be good at what I do.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=laelmano24&label=Profile%20views&color=0e75b6&style=flat" alt="laelmano24" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=laelmano24" alt="laelmano24" /></a> </p>
+## 👋 About Me
+- 💻 Website developer and exploit scripter
+- 🥲 I'm still in the learning phase, so don't expect too much from me.
+---
 
-<h3 align="left">Links</h3>
-<p align="left">
-<a href="https://rael-hub-site.vercel.app/" target="blank"><img align="center" src="https://i.postimg.cc/J03rfLjs/4-Sem-T-tulo-20240804215339.png" alt="raelhub" height="30" width="30" /></a>
-<a href="https://youtube.com/@laelmano24?si=4LwnhK9LeGWz635-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="laelmano24" height="30" width="40" /></a>
-<a href="https://instagram.com/israel_eduardo2.0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="israel_eduardo2.0" height="30" width="40" /></a>
-</p>
+### Languages (learning):
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Luau](https://img.shields.io/badge/-luau-F7DF1E?style=for-the-badge&logo=luau&logoColor=black)
 
-<h3 align="left">Languages I'm studying</h3>
-<p align="left"> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a>
-  <a href="https://luau-lang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/Roblox/luau/master/logo/luau-logo.png" alt="luau" width="40" height="40"/> 
-  </a>
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-  </a>
-  <a href="https://discord.js.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" alt="discord.js" width="40" height="40" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/> 
-  </a>
-</p>
+### Backend & Database (learning):
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![SQLite](https://img.shields.io/badge/-sqlite-47A248?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/-mysql-336791?style=for-the-badge&logo=mysql&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=laelmano24&show_icons=true&locale=en&layout=compact" alt="laelmano24" /></p>
+### Tools:
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+---
 
-<br></br>
+## 📊 GitHub Stats
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Laelmano24&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laelmano24&layout=compact&langs_count=8&theme=dark"/>
+</div>
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=laelmano24&show_icons=true&locale=en" alt="laelmano24" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=laelmano24&" alt="laelmano24" /></p>
+## 🔗 Connect with Me
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/laelmano24)
+---
