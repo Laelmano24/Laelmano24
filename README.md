@@ -13,11 +13,19 @@
 - 🥲 I'm still in the learning phase, so don't expect too much from me.
 ---
 
-### Languages (learning):
+## 🔧 Tech & Tools
+### Languages:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Luau](https://img.shields.io/badge/-luau-F7DF1E?style=for-the-badge&logo=luau&logoColor=black)
+![Luau](https://img.shields.io/badge/Luau-0096FF?style=for-the-badge)
 
-### Backend & Database (learning):
+### Frontend:
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+
+### Backend & Database:
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-sqlite-47A248?style=for-the-badge&logo=sqlite&logoColor=white)
