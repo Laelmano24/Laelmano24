@@ -9,7 +9,7 @@
 ---
 
 ## 👋 About Me
-- 💻 Website developer and exploit scripter  
+- 💻 Website developer
 - 🥲 I'm still in the learning phase, so don't expect too much from me.  
 
 ---
@@ -18,7 +18,6 @@
 
 ### Languages:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Luau](https://img.shields.io/badge/Luau-0096FF?style=for-the-badge)
 
 ### Frontend:
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
